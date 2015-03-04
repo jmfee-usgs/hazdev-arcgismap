@@ -1,0 +1,26 @@
+{
+  "name": "hazdev-arcgismap",
+  "version": "0.0.1",
+  "description": "widget for displaying data from arcgis services",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/usgs/hazdev-arcgismap"
+  },
+  "keywords": [
+    "arcgis",
+    "leaflet"
+  ],
+  "author": "USGS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/usgs/hazdev-arcgismap/issues"
+  },
+  "homepage": "https://github.com/usgs/hazdev-arcgismap",
+  "devDependencies": {
+    "hazdev-template": "git://github.com/usgs/hazdev-template"
+  }
+}
